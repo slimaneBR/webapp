@@ -29,3 +29,4 @@
           - "80:80"
         volumes:
           - /home/admin/index.html:/usr/local/apache2/htdocs/index.html
+          slim
